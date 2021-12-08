@@ -1,0 +1,6 @@
+*.pyc
+*.code-workspace
+.vscode
+.pytest_cache
+__pycache__
+TODO
